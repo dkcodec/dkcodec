@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkcodec&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://leetcode-stats-six.vercel.app/api?username=dkcodec&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-<h3 align = "right">Later I'll add new info abut me ^-^</h3>
+<h3 align = "right">Later I'll add new info about me ^-^</h3>
 
 ______________________ [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) ______________________________
 
