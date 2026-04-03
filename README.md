@@ -1,9 +1,6 @@
 <h1 align = "center">  <a href="https://kairgeldin.dev" target="_blank">Hi there, I'm Dmitriy</a>
 <img src="https://github.com/dkcodec/dkcodec/assets/74229630/19fc9092-8a1e-4905-9571-b91cacd98c08" height = "80"></h1>
 <h3 align = "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Sleep%2C+eat%2C+code%2C+gym;Software+engineering" alt="Typing SVG" /></a></h3>
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) 
-
 <!--https://github.com/dkcodec/dkcodec/assets/74229630/19fc9092-8a1e-4905-9571-b91cacd98c08 Hey kitten
 **dkcodec/dkcodec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://github.com/dkcodec/dkcodec/assets/74229630/8ff9a16a-988c-4c42-b99c-1f86e351c293 dancing kitten
